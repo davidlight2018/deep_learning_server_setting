@@ -1,0 +1,2 @@
+# deep_learning_server_setting
+万元以下深度学习主机搭建
