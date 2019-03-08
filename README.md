@@ -42,6 +42,8 @@
 
 ![img2](img2.jpeg)
 
+鲁大师评分:
+![img3](img3.jpeg)
 
 ## 三. GPU环境配置
 
